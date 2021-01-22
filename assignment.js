@@ -1,4 +1,4 @@
-//git code link -
+//git code link - https://github.com/sayfulislamshakib/assignment
 //convert kilometerToMeter
 //function declared
 function kilometerToMeter(input) {
